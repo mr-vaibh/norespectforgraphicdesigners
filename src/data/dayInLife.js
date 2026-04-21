@@ -1,0 +1,18 @@
+export const timeline = [
+  { time: "09:00", activity: "Open Figma", detail: "Stare at yesterday's work. Feel nothing.", color: "#333", icon: "◉" },
+  { time: "09:05", activity: "Pick a font", detail: "Spend 47 minutes comparing Inter and Plus Jakarta Sans. They are identical.", color: "#ff2222", icon: "A" },
+  { time: "09:52", activity: "Make coffee", detail: "Post the coffee cup on Instagram. Use VSCO filter. Write caption about 'the creative process.'", color: "#333", icon: "☕" },
+  { time: "10:15", activity: "Color palette research", detail: "Browse Dribbble for 2 hours. Save 94 shots to 'inspiration.' Create nothing.", color: "#333", icon: "◈" },
+  { time: "12:00", activity: "Lunch", detail: "Aesthetically pleasing lunch. Photographed from 6 angles. Posted to stories with ambient Spotify playlist.", color: "#333", icon: "◎" },
+  { time: "13:00", activity: "Figma, round 2", detail: "Move a button 2 pixels to the right.", color: "#ffcc00", icon: "→" },
+  { time: "13:07", activity: "Move it back", detail: "Actually the original position felt more balanced.", color: "#ffcc00", icon: "←" },
+  { time: "13:09", activity: "Move it 1 pixel left", detail: "Optical alignment. You wouldn't understand.", color: "#ff2222", icon: "←" },
+  { time: "13:45", activity: "Stakeholder meeting", detail: "Present designs. Client says 'can you make the logo bigger.' Designer dies inside but says 'great feedback.'", color: "#ff2222", icon: "⚑" },
+  { time: "14:30", activity: "Revisions", detail: "Make the logo bigger. Hate self. Bill an extra hour for 'design consultation.'", color: "#ff2222", icon: "↑" },
+  { time: "15:00", activity: "Design system update", detail: "Add a new shade of blue to the palette. Name it 'Serene Azure 2.0.' Tell no one.", color: "#333", icon: "◉" },
+  { time: "15:30", activity: "Respond to developer", detail: "Developer asks for the hover state design. Reply: 'Just make it feel natural.' No further elaboration.", color: "#ff2222", icon: "⟳" },
+  { time: "16:00", activity: "Browse Awwwards", detail: "Vote for a site that has white text on white background. Leave a 5-star review.", color: "#333", icon: "★" },
+  { time: "16:45", activity: "New side project", detail: "Start designing a portfolio for a portfolio of a portfolio. Sixth redesign this year.", color: "#333", icon: "◇" },
+  { time: "17:30", activity: "End of day reflection", detail: "Tweet about how 'design is thinking made visual.' Paste a Massimo Vignelli quote. Log 8 billable hours.", color: "#00ff41", icon: "✓" },
+  { time: "17:35", activity: "Actually submit the work?", detail: "No. It's not ready yet. It needs more breathing room.", color: "#ff2222", icon: "✗" },
+];
